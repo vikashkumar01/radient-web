@@ -4,7 +4,7 @@ import LinkContainer from "../component/LinkContainer"
 import Card from "../component/Card"
 import RelatedDeals from "../component/RelatedDeals"
 import SignupContainer from "../component/SignupContainer"
-import Footer from "../component/Footer"
+
 
 
 const Home = () => {
